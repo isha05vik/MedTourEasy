@@ -1,2 +1,2 @@
-#MedTourEasy
+# MedTourEasy
 Completed a data analytics traineeship at MedTourEasy, where I analyzed seven years of personal fitness data using Python, pandas, and matplotlib. Focused on data preprocessing, visualization, and statistical analysis to uncover trends in running performance, training intensity, and goal progression. Developed actionable insights from time-series data and created summary reports to support data-driven fitness decisions.
